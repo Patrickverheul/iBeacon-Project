@@ -11,7 +11,7 @@ This project configures an ESP32-WROOM-DA module as an iBeacon, broadcasting a B
 - March 17, 2025 - v1.0
 
 ## Repository
-- GitHub: [https://github.com/yourusername/iBeacon-Project](https://github.com/patrickverheul/iBeacon-Project) (Update with your actual repo URL)
+- GitHub: https://github.com/patrickverheul/iBeacon-Project
 
 ## Hardware Requirements
 - **ESP32-WROOM-DA Module**: Main microcontroller with BLE support.
